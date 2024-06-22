@@ -1,7 +1,7 @@
 # Polling
 Date: 1/13/2021<br>
 
-##Description
+## Description
 The Internet and the web are enabling more people to network, join a cause, voice opinions, and so on. Recent presidential candidates have used the Internet intensively to get out their messages and raise money for their campaigns. In this exercise, you’ll write a simple polling program that allows users to rate five social-consciousness issues from 1 (least important) to 10 (most important). Pick five causes that are important to you (e.g., political issues, global environmental issues). 
 Have your friends and family respond to the survey. 
 Then the program displays a summary of the results, including:
